@@ -26,8 +26,9 @@ class App extends Component {
             <CS/>
             </Route>
           </Switch>
-    </Router>
-        </main>
+          </main>
+      </Router>
+  
   </div>
     );
 }
